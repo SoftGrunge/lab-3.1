@@ -1,4 +1,5 @@
 public class Main {
+    //Efimov DA
     public static void main(String[] args) {
         List list = new List();
         list.addStart(1);
